@@ -1,0 +1,6 @@
+{
+    "name": "root/dev-wai",
+    "require": {
+        "mongodb/mongodb": "^1.1"
+    }
+}
